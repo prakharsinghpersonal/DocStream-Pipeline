@@ -1,3 +1,4 @@
 - Commit 2 (Extraction Logic): Write the concurrent Go routines responsible for fetching multidimensional enterprise records from mock source APIs or S3 buckets.
 - Commit 3 (Transformation Engine): Implement the data transformation layer in Go, flattening or reshaping the data to fit document-oriented schemas.
 - Commit 4 (High-Concurrency Loading): Utilize Go worker pools to bulk-load the transformed JSON documents into the AWS document database with optimized write throughput.
+- Commit 5 (Deployment & Polish): Add comprehensive error handling and retry logic (exponential backoff). Containerize the pipeline and finalize the README.md.
