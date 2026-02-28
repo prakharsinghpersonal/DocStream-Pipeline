@@ -1,0 +1,1 @@
+# DocStream-Pipeline\n\n**DocStream: Enterprise Data Pipeline - Scalable data engineering workflow in Go to load records into document databases.**\n\n## Tech Stack\n- Go\n- Document Databases\n- AWS\n
