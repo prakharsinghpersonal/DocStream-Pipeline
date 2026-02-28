@@ -1,0 +1,1 @@
+- Commit 2 (Extraction Logic): Write the concurrent Go routines responsible for fetching multidimensional enterprise records from mock source APIs or S3 buckets.
